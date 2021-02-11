@@ -1,0 +1,7 @@
+.lnk-nml{
+    color:rgb(25, 0, 255)
+}
+
+.lnk-nml:hover{
+    text-decoration: underline;
+}
